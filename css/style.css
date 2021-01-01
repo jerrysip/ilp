@@ -1,0 +1,293 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: box-grid;
+    
+
+    
+    /*height: 100%;
+    width: auto;*/
+
+}
+
+.shipping {
+    background: black;
+    color: white;
+    font-family: bebas neue, sans-serif;
+}
+
+
+.main {
+    background: url(../images/green.jpg);
+    background-size: cover;
+    color: white;
+}
+
+.illission a {
+    font-size: 3rem;
+    text-decoration: none;
+}
+
+.main:hover {
+    background-image: url(../images/leaves.jpg);
+}
+
+.green {
+    background-size: cover;
+}
+
+.green:hover {
+    background-image: url(../images/green.JPG);
+    
+}
+
+
+
+.products h1 {
+    font-family: bebas neue, sans-serif;
+    font-size: 2rem;
+    border-bottom: 2px solid;
+    position: relative;
+    top: 5rem;
+    
+}
+
+
+
+.first {
+    border-bottom: 3px solid;
+}
+
+span.tab-space {
+    padding-left:2em;
+    
+}
+
+.envelope {
+    position: relative;
+    top: .10rem;
+
+}
+
+.social-media-links {
+    position: relative;
+    top: .8rem;
+ 
+}
+
+
+.menu {
+    font-family: bebas neue, sans-serif;
+
+
+}
+
+.shop-our-story {
+    font-family: bebas neue, sans-serif;
+    position: relative;
+    top: 1.5rem;
+}
+
+.illission {
+    font-family: bebas neue, sans-serif;
+    position: relative;
+}
+
+.illission, .mt-1 {
+    position: relative;
+    top: .2rem;
+}
+
+.henry {
+    border-right: 1px solid;
+    
+}
+
+.silly {
+    border-top: 1px solid;
+}
+
+.fas {
+    position: relative;
+    bottom: 1px;
+}
+
+.tab-space {
+    color: black;
+}
+
+/*Shop Page*/
+.shop {
+    background-image: url(../images/pinkbubble.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 25rem;
+}
+
+.shop:hover {
+    background-image: url(../images/jarbubble.jpg);
+}
+
+
+/*Product page*/
+
+.product-list b {
+    font-family: bebas neue, sans-serif;
+    font-size: 1.5rem;
+}
+
+
+/*Front Page Banner*/
+.banner {
+    background: black;
+    
+}
+
+.quote {
+    position: relative;
+    top: 2rem;
+    font-size: 2rem;
+    font-family: Roboto;
+    background: rgb(230, 255, 238);
+    
+}
+
+
+
+
+
+
+
+
+/*Footer*/
+.footer {
+    font-family: bebas neue;
+    border-top: 4px solid;
+}
+
+.news {
+    border-right: 1px solid;
+    border-left: 1px solid;
+
+}
+
+.newsletter {
+    position: relative;
+    top: 2rem;
+    font-size: 2rem;
+}
+
+.social-link {
+    height: 5rem;
+    border-top: 1px solid;
+}
+
+
+
+.shop-footer {
+    font-size: 1.5rem;
+    position: relative;
+    top: 1.5rem;
+}
+
+.our-story {
+    font-size: 1.5rem;
+    position: relative;
+    top: 1rem;
+}
+
+
+.negative-space {
+    height: 10rem;
+}
+
+.face, .insta {
+    font-size: 2rem;
+}
+
+.email {
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+
+.contact {
+    font-family: sans-serif;
+}
+
+.button {
+    background-color: white;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.25rem;
+}
+
+a:visited{
+    color:black;
+    text-decoration: none;
+  }
+
+  .black-bar {
+      background-color: black;
+  }
+
+
+  .featured {
+      border-bottom: 1px solid;
+  }
+
+  .neg {
+      border-top: 1px solid;
+  }
+
+  .buddha {
+      height: 20vh;
+      background-color:black;
+      font-size: 1.5rem;
+  }
+
+  .back {
+      background-image: url(../images/leave.jpg);
+      background-size: cover;
+      height: 20vh;
+  }
+
+  .snipcart-checkout {
+      background-color: black;
+      color: white;
+      border: none;
+  }
+
+  .contact {
+      overflow:hidden;
+  }
+
+.a {
+    background-color: white;
+    color: black;
+}
+
+.navbar {
+    font-family: bebas neue, sans-serif;
+    
+}
+
+.buy-button {
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    border-color: black;
+    
+}
+
+.black-bar {
+    border: 10px solid;
+    background: black;
+    
+}
+
+.line {
+    border-bottom: 4px solid;
+}

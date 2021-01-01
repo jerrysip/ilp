@@ -1,0 +1,210 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: box-grid;
+
+
+    
+    /*height: 100%;
+    width: auto;*/
+
+}
+
+.shipping {
+    background: black;
+    color: white;
+    font-family: bebas neue, sans-serif;
+}
+
+
+
+.illission a {
+    font-size: 3rem;
+    text-decoration: none;
+}
+
+
+.green {
+    background-size: cover;
+}
+
+
+.main {
+    background-image: url(../images/process.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 45vh;
+}
+
+.navbar {
+    font-family: bebas neue, sans-serif;
+}
+
+
+.navbar-toggler {
+    font-family: bebas neue, sans-serif;
+}
+
+
+
+.first {
+    border-bottom: 3px solid;
+}
+
+span.tab-space {
+    padding-left:2em;
+    
+}
+
+.envelope {
+    position: relative;
+    top: .10rem;
+
+}
+
+.social-media-links {
+    position: relative;
+    top: .8rem;
+ 
+}
+
+
+.menu {
+    font-family: bebas neue, sans-serif;
+
+
+}
+
+.shop-our-story {
+    font-family: bebas neue, sans-serif;
+    position: relative;
+    top: 1.5rem;
+}
+
+.illission {
+    font-family: bebas neue, sans-serif;
+    position: relative;
+}
+
+.illission, .mt-1 {
+    position: relative;
+    top: .2rem;
+}
+
+.henry {
+    border-right: 1px solid;
+    
+}
+
+.silly {
+    border-top: 1px solid;
+}
+
+.fas {
+    position: relative;
+    bottom: 1px;
+}
+
+
+
+
+.snipcart-checkout {
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.25rem;
+}
+
+a:visited{
+    color:black;
+    text-decoration: none;
+  }
+
+
+.tab-space {
+    color: black;
+}
+
+
+
+/*Footer*/
+.footer {
+    font-family: bebas neue;
+    border-top: 4px solid;
+}
+
+.news {
+    border-right: 1px solid;
+    border-left: 1px solid;
+
+}
+
+.newsletter {
+    position: relative;
+    top: 2rem;
+    font-size: 2rem;
+}
+
+.social-link {
+    height: 5rem;
+    border-top: 1px solid;
+}
+
+
+
+.shop-footer {
+    font-size: 1.5rem;
+    position: relative;
+    top: 1.5rem;
+}
+
+.our-story {
+    font-size: 1.5rem;
+    position: relative;
+    top: 1rem;
+}
+
+
+.negative-space {
+    height: 10rem;
+}
+
+.face, .insta {
+    font-size: 2rem;
+}
+
+.email {
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+
+.contact {
+    font-family: sans-serif;
+}
+
+.card {
+    background-color: rgb(243, 243, 243);
+    
+}
+
+a:visited{
+    color:black;
+  }
+
+.a {
+    background-color: white;
+    color: black;
+}
+
+.line {
+    border-bottom: 4px solid;
+}
+
+.black-bar {
+    border: 10px solid;
+    background: black;
+}

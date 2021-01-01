@@ -1,0 +1,58 @@
+body {
+  overflow: hidden;
+  height: 100%;
+}
+
+body, html {
+  height: 100%;
+}
+
+
+
+
+.bg { 
+
+  background-image: url("../images/candle.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+
+.illission {
+  font-family: Bebas neue, sans-serif;
+  font-size: 5rem;
+}
+
+
+
+.newyork {
+  font-family: Varela Round, sans-serif;
+  font-size: 1.5rem;
+  position: relative;
+  bottom: 18px;
+  letter-spacing: 10px;
+}
+
+
+
+.btn {
+  border-radius:0;
+  width: 15rem;
+  height: 3rem;
+  font-size: 2rem;
+  font-family: bebas neue, sans-serif;
+}
+
+
+
+.container {
+  position: absolute;
+  z-index: 1;
+  color: white;
+  background: none;
+}
+
